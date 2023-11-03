@@ -8,7 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
-header {
+header { /*edited to no longer be a class */
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
@@ -86,19 +86,19 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-section {
+.benefit-section { /*consolidated three sections with identical dimensions*/
     margin-bottom: 32px;
     color: #ffffff;
 }
 
 
-.benefit-section h3 {
+.benefit-section h3 { /*consolidated three sections with identical dimensions*/
     margin-bottom: 10px;
     text-align: center;
 }
 
 
-.benefit-section img {
+.benefit-section img { /*consolidated three sections with identical dimensions*/
     display: block;
     margin: 10px auto;
     max-width: 150px;
@@ -159,13 +159,13 @@ p {
     font-size: 36px;
 }
 
-.footer {
+footer { /* edited to no longer be a class */
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
+footer h4 { /* changed to h4 to follow heading order */
     font-size: 20px;
 }
