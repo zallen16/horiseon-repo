@@ -1,1 +1,3 @@
 # Code Refactor Starter Code
+
+# Starter code was given including an HTML file and a CSS file, showing a professional webpage but with lacking accessibility standards. Semantic elements were put in place of many generic dividers within starter code, and superfluous CSS classes and elements were either deleted or consolidated as need be. HTML code was separated and ordered in a more logical manner than beforehand. File was also given a title. All code within project is now easier to understand and follow using accessibility standards. 
